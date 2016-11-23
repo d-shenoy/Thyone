@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D3290440-6E34-33D2-82BA-AB16800B5DD8}") = "Thyone", "Assembly-CSharp.csproj", "{89729C46-A7CD-7770-737B-FA0F737BDE17}"
+EndProject
+Project("{D3290440-6E34-33D2-82BA-AB16800B5DD8}") = "Thyone", "Assembly-CSharp-Editor.csproj", "{D7FFB3BF-3330-9663-62D6-EC6F74699B86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89729C46-A7CD-7770-737B-FA0F737BDE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89729C46-A7CD-7770-737B-FA0F737BDE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89729C46-A7CD-7770-737B-FA0F737BDE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89729C46-A7CD-7770-737B-FA0F737BDE17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7FFB3BF-3330-9663-62D6-EC6F74699B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FFB3BF-3330-9663-62D6-EC6F74699B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FFB3BF-3330-9663-62D6-EC6F74699B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FFB3BF-3330-9663-62D6-EC6F74699B86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
